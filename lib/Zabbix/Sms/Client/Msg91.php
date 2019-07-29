@@ -1,8 +1,8 @@
 <?php
 /**
- * Zabbix Sms Clickatell client
+ * Zabbix Sms Msg91 client
  *
- * @author 		Thijs Lensselink <tl@lenss.nl> Dec 19, 2013
+ * @author 	Yashodhan <ysk@securiace.com> Jul 29, 2019
  * @package 	Zabbix
  * @subpackage 	Sms
  */
